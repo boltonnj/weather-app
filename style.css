@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background: #b5bdc8;
+  /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+  /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+#temp {
+  font-family: 'Exo', sans-serif;
+}
+
+span {
+  font-size: 90px;
+}
+
+button {
+  float: right;
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  border-color: white 3px;
+  padding: 5px 10px;
+}
